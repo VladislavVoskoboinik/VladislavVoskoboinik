@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @VladislavVoskoboinik
-- 👀 I’m interested in python development, AI, math, c++
 - 🌱 I’m currently learning telegram bots, python
 
 
