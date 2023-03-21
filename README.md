@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VladislavVoskoboinik
-- 🌱 I’m currently learning telegram bots, python
+- 🌱 I’m currently learning data analysis with python, sql, c++
 
 
 <!---
