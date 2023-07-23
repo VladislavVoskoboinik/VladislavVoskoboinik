@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @VladislavVoskoboinik
-- 🌱 I’m currently learning data analysis with python, sql, c++
+- 👋 Hi, I’m Vladislav
+- 💻 Data analyst, Physicist, MSU student
+- 🌱 I’m currently learning time series analysis and prediction, SQL, Tableau
 
 
 <!---
