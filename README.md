@@ -8,9 +8,28 @@
   </a>
 </div>
 
-###About me
--    💻 Data analyst, Physicist, sophomore MSU student, calculus enjoyer
+---
+
+<h3>About me</h3>
+-    💻 Data analyst, Physicist, sophomore MSU student, calculus enjoyer<br>
 -    🌱 I’m currently learning time series analysis and prediction, SQL, Tableau
+
+---
+
+<h3>Languages and tools</h3>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="python" width="70" height="70"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="cplusplus" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" width="70" height="70"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="pandas" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" title="numpy" width="70" height="70"/>
+          
+          
+
+          
+</div>
+            
+          
 
 
 <!---
