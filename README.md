@@ -11,8 +11,7 @@
 ---
 
 <h3>About me</h3>
--    💻 Data analyst, Physicist, sophomore MSU student, calculus enjoyer<br>
--    🌱 I’m currently learning time series analysis and prediction, PostgreSQL, Tableau
+
 
 ---
 
